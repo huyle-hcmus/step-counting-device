@@ -68,3 +68,9 @@
 - [Dung Nguyen]: Firmware Development
 - [Loi Ho]: Firmware Development
 - [Huy Le]: Firmware Development
+
+### Result 
+1 
+![result](project_document/result1.jpg)
+2
+![result](project_document/result2.jpg)
